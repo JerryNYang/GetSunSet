@@ -1,1 +1,1 @@
-Updating... Android P to Android SDK
+Updating... Android P to a new Android SDK
